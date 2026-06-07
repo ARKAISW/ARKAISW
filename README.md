@@ -7,9 +7,6 @@
 
 ---
 
-### What I work on
-
-I'm interested in **market microstructure**, **multi-agent systems**, and using **reinforcement learning** to model financial dynamics. Not predicting markets — understanding what emerges when you change the rules.
 
 ---
 
